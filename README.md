@@ -14,6 +14,7 @@ https://www.figma.com/file/R2lrQrJqyRPkvaV3YuNb5I/Untitled
 <hr>
 <h2>XML design</h2>
 
-
+![e1c9d857749cf830e3a021d73efd1698](https://user-images.githubusercontent.com/39675003/101622197-f1900e80-3a40-11eb-9f1f-9b89dbe544a4.png)
 
 <hr>
+<h2>How app is working and looks like</h2>
