@@ -28,4 +28,6 @@ https://www.figma.com/file/R2lrQrJqyRPkvaV3YuNb5I/Untitled
 
 <h3>And there it is
   
+![9d095f3375783a3e4a30b08e47281790](https://user-images.githubusercontent.com/39675003/101625552-c360fd80-3a45-11eb-822b-7aa2c60e122f.png)
 
+<h3>If You don't need anymore note You can delete it by longpress</h3>
