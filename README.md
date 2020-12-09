@@ -31,3 +31,5 @@ https://www.figma.com/file/R2lrQrJqyRPkvaV3YuNb5I/Untitled
 ![9d095f3375783a3e4a30b08e47281790](https://user-images.githubusercontent.com/39675003/101625552-c360fd80-3a45-11eb-822b-7aa2c60e122f.png)
 
 <h3>If You don't need anymore note You can delete it by longpress</h3>
+
+![e134061d3a3f68bcb43649cf040f9944](https://user-images.githubusercontent.com/39675003/101625668-ef7c7e80-3a45-11eb-978d-71832f11e557.png)
