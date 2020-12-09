@@ -18,3 +18,14 @@ https://www.figma.com/file/R2lrQrJqyRPkvaV3YuNb5I/Untitled
 
 <hr>
 <h2>How app is working and looks like</h2>
+<h3>With toolbar we can add new note</h3>
+
+![9d095f3375783a3e4a30b08e47281790](https://user-images.githubusercontent.com/39675003/101625007-04a4dd80-3a45-11eb-8525-2ebb8aeb39ac.png)
+
+<h3>Type something</h3>
+
+![e1c9d857749cf830e3a021d73efd1698](https://user-images.githubusercontent.com/39675003/101625008-053d7400-3a45-11eb-92db-c28e883d6435.png)
+
+<h3>And there it is
+  
+![9523fdbb1baf159ec8e8bd6ca4d47bdf](https://user-images.githubusercontent.com/39675003/101625009-053d7400-3a45-11eb-9c8e-800e325177f6.png)
